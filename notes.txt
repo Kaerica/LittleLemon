@@ -1,0 +1,6 @@
+Superuser credentials:
+username: admin
+password: AdminPass123
+
+No additional users were created yet.
+Use the Django admin panel to create users and assign them to the Manager or Delivery crew groups.
